@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-### Enrique Rodriguez Portfolio
+### My Portfolio
 ### 360 
 
 This is my 360 image
